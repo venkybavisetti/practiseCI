@@ -1,0 +1,17 @@
+.pageHeader {
+  color: orange;
+  text-align: center;
+  border-bottom: 1px solid grey;
+  padding-bottom: 1vw;
+  font-size: 30px;
+}
+
+.container {
+  display: flex;
+  justify-content: end;
+  margin: 10px;
+}
+
+.paragraph {
+  padding: 30vh 5vw 5vh 2vw;
+}
